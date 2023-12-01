@@ -1,5 +1,5 @@
 # XCast_Examples
-Notebooks based on XCast packages for Seasonal and Sub-seasonal forecasts
+Notebooks based on XCast packages (https://xcast-lib.github.io/) for Seasonal forecasts
 
 
 **Model_evaluation.ipynb**:This notebook is for an example of how to use XCast for individual GCM evaluaiton
