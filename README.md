@@ -5,7 +5,9 @@ Notebooks based on XCast packages (https://xcast-lib.github.io/) for Seasonal fo
 **Model_evaluation.ipynb**:This notebook is for an example of how to use XCast for individual GCM evaluaiton
 
 
-**CCA_GCM_prec.ipynb**:This notebook is for an example of how to use XCast for CCA based calibration for determinisitc and Probabilisitc precipitation forecast.
+**CCA_GCM_prec.ipynb**:This notebook is for an example of how to use XCast for canonical correlation analysis (CCA) based calibration for determinisitc and Probabilisitc precipitation forecast.
+
+**CCA_MME_prec.ipynb**:This notebook is for an example of how to use XCast for making multimodel ensemble using canonical correlation analysis (CCA) for determinisitc and Probabilisitc precipitation forecast.
 
 
 **ELM_MME_prec.ipynb**:This notebook is for an example of how to use XCast for making multimodel ensemble using Extreme Learning Machine methods for determinisitc and Probabilisitc precipitation forecast.
